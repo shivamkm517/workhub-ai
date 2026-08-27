@@ -1,0 +1,13 @@
+alembic==1.19.0
+fastapi==0.141.1
+httpx==0.28.1
+psycopg2-binary==2.9.12
+pydantic==2.13.4
+pydantic-core==2.46.4
+pydantic-settings
+python-dotenv==1.2.2
+python-jose==3.5.0
+SQLAlchemy==2.0.51
+uvicorn==0.52.1
+argon2-cffi
+email-validator
